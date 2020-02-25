@@ -24,7 +24,7 @@ jobs:
     - name: Checkout the tests repo
       uses: actions/checkout@v2
       with:
-        repository: progivt19/c03loop-test
+        repository: av-pavlov/c03loop-test
         ref: master
         path: tests
 
